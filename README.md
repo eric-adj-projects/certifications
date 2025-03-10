@@ -75,6 +75,6 @@ Introduction to the ServiceNow platform capabilities, including IT Service Manag
 Advanced techniques for automating business processes in SharePoint using Nintex workflow tools, including form design, workflow actions, and integration points.
 
 ### SharePoint 2013 Microsoft Office Specialist
-![SharePoint 2013 MOS Certificate](./assets/images/sharepoint-mos.png)
+![SharePoint 2013 MOS Certificate](./assets/sharepoint-mos.png)
 
 Microsoft Office Specialist certification validating expertise in SharePoint 2013 site creation, content management, user permissions, and integration with Office applications.
