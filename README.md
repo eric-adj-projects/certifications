@@ -15,7 +15,7 @@ Training focused on specialized methodologies and compliance requirements for ma
 Comprehensive training in Agile methodologies, covering Scrum, Kanban, and other frameworks for iterative project delivery, sprint planning, retrospectives, and adaptive project management.
 
 ### Google Project Management Certification
-![Google Project Management Certificate](./assets/images/google-pm.png)
+![Google Project Management Certificate](./docs/google-pm.pdf)
 
 Industry-recognized credential covering foundational project management skills, Agile and Scrum methodologies, risk management, and team leadership according to Google's project management best practices.
 
@@ -46,7 +46,7 @@ Core concepts of business analysis including requirements gathering, process mod
 Specialized training in designing and implementing multi-agent AI systems using the CREWAi framework for autonomous agent collaboration and complex task execution.
 
 ### AWS AI Certification (Amazon Bedrock)
-![AWS AI Certificate](./assets/images/aws-ai.png)
+![AWS AI Certificate](./docs/aws-ai.pdf)
 
 Amazon Web Services credential validating expertise in implementing AI/ML solutions on AWS, including SageMaker, Rekognition, Comprehend, and other AWS AI services. Strategic frameworks for implementing generative AI solutions within organizations, covering change management, infrastructure requirements, and ethical considerations. Methodology for scoping, planning, and executing generative AI projects, including use case identification, data requirements, and performance measurement. Technical training in developing applications powered by generative AI, covering large language models, prompt engineering, and application architecture. Techniques for effective prompt design and optimization for generative AI systems, including context design, few-shot prompting, and chain-of-thought techniques.
 
