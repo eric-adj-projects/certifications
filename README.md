@@ -2,6 +2,11 @@
 
 A collection of my professional certifications and completed courses in project management, AI, cloud technology, and more.
 
+## Education
+M.S. Information Systems - University of Maryland, Baltimore County
+Graduate degree in Information Systems earned from UMBC's Graduate School. This program provided comprehensive knowledge in designing, implementing, and managing information systems to solve complex business and organizational challenges.
+![Master of Science Degree, Information Systems](./assets/master-degree.png)
+
 ## Project Management
 
 ### Project Management for Government Projects
