@@ -5,7 +5,7 @@ A collection of my professional certifications, education and completed courses 
 ## Education
 M.S. Information Systems - University of Maryland, Baltimore County
 Graduate degree in Information Systems earned from UMBC's Graduate School. This program provided comprehensive knowledge in designing, implementing, and managing information systems to solve complex business and organizational challenges.
-![Master of Science Degree, Information Systems](./assets/master-degree.png)
+![Master of Science Degree, Information Systems](./assets/masters-degree.png)
 
 ## Project Management
 
