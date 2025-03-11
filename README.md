@@ -1,6 +1,6 @@
 # Professional Certifications & Education
 
-A collection of my professional certifications and completed courses in project management, AI, cloud technology, and more.
+A collection of my professional certifications, education and completed courses in project management, AI, cloud technology, and more.
 
 ## Education
 M.S. Information Systems - University of Maryland, Baltimore County
