@@ -1,4 +1,4 @@
-# Professional Certifications Portfolio
+# Professional Certifications & Education
 
 A collection of my professional certifications and completed courses in project management, AI, cloud technology, and more.
 
